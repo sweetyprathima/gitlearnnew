@@ -1,0 +1,6 @@
+user.name="kaumudi"
+user.phno="245553365"
+city
+street
+country
+
